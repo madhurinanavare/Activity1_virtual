@@ -3,8 +3,8 @@
 void bubblesort(int,int);
 int main()
 {
-	int a[10],n=5,i,j=0;
-	if(n<0)
+    int a[10],n=5,i,j=0;
+    if(n<0)
         printf("Size of array should not be zero");
     else{
 
